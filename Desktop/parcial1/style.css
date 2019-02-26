@@ -1,0 +1,28 @@
+body {
+  
+}
+h1{
+	font-family:roboto, sans-serif
+}
+.img1{
+	width:70px;height:70px
+}
+.img2{
+	width:100%;height:auto
+}
+.uno{
+ 	background-color:RGB(240, 240, 240);border:2px solid yellow
+ }
+.dos{
+	background-color:RGB(240, 240, 240);border:2px solid DodgerBlue
+}
+.h{
+	background-color:RGB(240, 240, 240);border:2px solid DodgerBlue
+
+}
+.tres{
+	background-color:RGB(240, 240, 240);border:2px solid red
+}
+.cuatro{
+	background-color:RGB(240, 240, 240);border:2px solid green
+}
