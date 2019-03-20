@@ -4,25 +4,46 @@ body {
 h1{
 	font-family:roboto, sans-serif
 }
+.textw{
+	color: white;
+}
+img{
+	width:250px;height:250px;
+}
+.flash{
+
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+
+}
 .img1{
-	width:70px;height:70px
+	width:70px;height:70px 
+
 }
 .img2{
+
 	width:100%;height:auto
 }
 .uno{
- 	background-color:RGB(240, 240, 240);border:2px solid yellow
+	background-image: url("images/background.jpeg");
+ 	color: white;
+ 	border:2px solid yellow;
  }
 .dos{
-	background-color:RGB(240, 240, 240);border:2px solid DodgerBlue
+	background-color:RGB(240, 240, 240);
+	border:2px solid DodgerBlue
 }
 .h{
-	background-color:RGB(240, 240, 240);border:2px solid DodgerBlue
+	background-color:RGB(240, 240, 240);
+	border:2px solid DodgerBlue
 
 }
 .tres{
-	background-color:RGB(240, 240, 240);border:2px solid red
+	background-color:RGB(240, 240, 240);
+	border:2px solid red
 }
 .cuatro{
-	background-color:RGB(240, 240, 240);border:2px solid green
+	background-color:RGB(240, 240, 240);
+	border:2px solid green
 }
